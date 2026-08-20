@@ -89,7 +89,3 @@ Some improvements I would like to try later are:
 - feature importance analysis
 - testing other imbalance-handling techniques
 - trying boosting models such as XGBoost
-
-## Disclaimer
-
-This project was created for learning and academic practice. It is not intended to be used for real medical diagnosis or clinical decision-making.
